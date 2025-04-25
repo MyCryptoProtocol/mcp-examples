@@ -31,7 +31,7 @@ npm test
 - `/tests` - Test suites for all examples
 
 ## Links
-- [Documentation](../mcp-docs)
-- [Core Protocol](../mcp-core)
-- [Agents](../mcp-agents)
-- [Server](../mcp-server)
+- [Documentation](https://github.com/MyCryptoProtocol/mcp-docs)
+- [Core Protocol](https://github.com/MyCryptoProtocol/mcp-core)
+- [Agents](https://github.com/MyCryptoProtocol/mcp-agents)
+- [Server](https://github.com/MyCryptoProtocol/mcp-server)
